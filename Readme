@@ -1,0 +1,27 @@
+Elliptic Curve Cryptography
+***************************
+
+A C++ program to implement the ECC algorithm.
+
+
+
+To run the program
+******************
+
+1. Go the directory where the file is present.
+
+2. To build the program, type make in the terminal.
+
+3. The program has now been built and the executable file a.out is ready.
+
+4. To run the executable file, type ./a.out in the terminal.
+   
+5. The plaintext has been encrypted. The decryption process retrieves the plaintext from the ciphertext. 
+   The results at each stage of the encryption and decryption process are also displayed.
+
+6. To remove the unnecessary files, type make clean into the terminal
+   The executable file a.out and the object files will be removed
+
+
+
+* * * * * * * * Written by Vishakh.S * * * * * * * *
